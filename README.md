@@ -1,2 +1,2 @@
 # Kasper
-progect -2 
+project -2 
